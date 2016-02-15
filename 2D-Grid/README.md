@@ -1,4 +1,4 @@
-# IOS
+# iOS
 
 <p><a href="https://github.com/WenLiao/IOS/blob/master/2D-Grid/demo.gif" target="_blank"><img src="https://github.com/WenLiao/IOS/blob/master/2D-Grid/demo.gif" alt="TDGridView_Demo_GIF" style="max-width:100%;"></a></p>
 
